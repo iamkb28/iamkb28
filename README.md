@@ -37,7 +37,7 @@ src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" a
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" alt="matlab" width="40" height="40"/> <img              
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" alt="notion" width="40" height="40"/>           
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamkb28&theme=dracula" width="450" alt="iamkb28"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=iamkb28&show_icons=true&locale=en&theme=tokyonight" width="425" alt="iamkb28"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamkb28&theme=dracula" width="225" alt="iamkb28"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=iamkb28&show_icons=true&locale=en&theme=tokyonight" width="250" alt="iamkb28"/>
 </div>
 
