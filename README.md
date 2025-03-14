@@ -36,6 +36,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-ori
 src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" alt="Power BI" width="40" height="40"/> <img
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" alt="matlab" width="40" height="40"/> <img              
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" alt="notion" width="40" height="40"/>           
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=iamkb28&theme=dracula" alt="iamkb28"/></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=iamkb28&theme=dracula" alt="iamkb28" width="400" height="400"/></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=iamkb28&show_icons=true&locale=en&theme=tokyonight" alt="iamkb28" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=iamkb28&show_icons=true&locale=en&theme=tokyonight" alt="iamkb28" width="400" height="400"/></p>
