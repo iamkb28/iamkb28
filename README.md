@@ -38,4 +38,4 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-ori
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" alt="notion" width="40" height="40"/>           
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=iamkb28&theme=dracula" alt="iamkb28"/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamkb28&show_icons=true&locale=en&theme=tokyonight" alt="iamkb28" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=iamkb28&show_icons=true&locale=en&theme=tokyonight" alt="iamkb28" /></p>
