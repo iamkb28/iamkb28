@@ -10,6 +10,7 @@
 - 🔭 I’m currently working on open source contributions
 - 🌱 I’m currently learning Ruby on Rails
 - 📫 How to reach me: [LinkedIn Profile](https://www.linkedin.com/in/khushi-bansal-304102252)
+- 📝 I also share thoughts on life, tech, and trendy topics on my [![Visit Blog](https://img.shields.io/badge/Read-My%20Blog-orange?style=flat-square&logo=blogger)](https://404notboring.blogspot.com/) — drop by for a good read!
 - 🏏 Fun Fact: **Virat Kohli** is my **main()**, **RCB** is a **debug log**, but **KKR for SRK** is **hardcoded in prod!** 💜🔥😂
 <h3>Langauge and Tools:</h3>
 
